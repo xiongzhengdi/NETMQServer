@@ -1,0 +1,9 @@
+D:\中辉项目\zmq\SecondNetMQTest\SecondNetMQTest\bin\Debug\SecondNetMQTest.exe.config
+D:\中辉项目\zmq\SecondNetMQTest\SecondNetMQTest\bin\Debug\SecondNetMQTest.exe
+D:\中辉项目\zmq\SecondNetMQTest\SecondNetMQTest\bin\Debug\SecondNetMQTest.pdb
+D:\中辉项目\zmq\SecondNetMQTest\SecondNetMQTest\bin\Debug\AsyncIO.dll
+D:\中辉项目\zmq\SecondNetMQTest\SecondNetMQTest\bin\Debug\NetMQ.dll
+D:\中辉项目\zmq\SecondNetMQTest\SecondNetMQTest\bin\Debug\NetMQ.pdb
+D:\中辉项目\zmq\SecondNetMQTest\SecondNetMQTest\obj\Debug\SecondNetMQTest.csprojResolveAssemblyReference.cache
+D:\中辉项目\zmq\SecondNetMQTest\SecondNetMQTest\obj\Debug\SecondNetMQTest.exe
+D:\中辉项目\zmq\SecondNetMQTest\SecondNetMQTest\obj\Debug\SecondNetMQTest.pdb
